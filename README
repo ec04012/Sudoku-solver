@@ -1,0 +1,7 @@
+Sudoku solver written in c++.
+
+Edit the grid in the souce file.
+
+Compile with ./make
+
+Run with ./Sudoku
